@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  6 DEC 2014 22:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  6 DEC 2014 22:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -281,37 +281,60 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 42.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (1.52785pt too wide) in paragraph at lines 52--58
-\T1/aer/m/n/9 for trend-ing top-ics. Our so-lu-tion con-sists of ex-tract-ing t
-weets
+Overfull \hbox (2.73218pt too wide) in paragraph at lines 52--60
+\T1/aer/m/n/9 cent tweets that use an in-quired hash-tag, and se-lect-ing prope
+r
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--58
+Overfull \hbox (7.85533pt too wide) in paragraph at lines 52--60
+\T1/aer/m/n/9 key-words for query terms that can be searched us-ing Bing.com.
+ []
+
+
+Overfull \hbox (2.45534pt too wide) in paragraph at lines 52--60
+\T1/aer/m/n/9 The mo-ti-va-tion be-hind this ap-proach is that the re-cent twee
+ts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--60
 
  []
 
 
-Overfull \hbox (4.04817pt too wide) in paragraph at lines 61--64
+Underfull \hbox (badness 10000) in paragraph at lines 52--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--60
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Overfull \hbox (4.04817pt too wide) in paragraph at lines 62--65
 \T1/aer/m/n/9 hash-tags (e.g. #oitnb trans-lates to ''or-ange is the new black"
 ),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
 
  []
 
-[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
 <./figures/SystemArchitechture.jpg, id=12, 928.46875pt x 580.1675pt>
 File: ./figures/SystemArchitechture.jpg Graphic file (type jpg)
 
 <use ./figures/SystemArchitechture.jpg>
 Package pdftex.def Info: ./figures/SystemArchitechture.jpg used on input line 7
-1.
+2.
 (pdftex.def)             Requested size: 231.84338pt x 144.86446pt.
  (./query-generation.tex [2 <./figures/SystemArchitechture.jpg>]
 Overfull \hbox (2.13875pt too wide) in paragraph at lines 11--12
@@ -319,18 +342,18 @@ Overfull \hbox (2.13875pt too wide) in paragraph at lines 11--12
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
 
  []
 
 
-Overfull \hbox (1.92235pt too wide) in paragraph at lines 89--91
+Overfull \hbox (1.92235pt too wide) in paragraph at lines 90--92
 \T1/aer/m/n/9 to the user, is doc-u-ment ex-trac-tion and sum-ma-riza-tion. Bot
 h
  []
 
 
-Overfull \hbox (2.36351pt too wide) in paragraph at lines 89--91
+Overfull \hbox (2.36351pt too wide) in paragraph at lines 90--92
 \T1/aer/m/n/9 demon-strated in LexRank's ini-tial eval-u-a-tion, or can-not ove
 r-
  []
@@ -340,34 +363,41 @@ Overfull \hbox (2.10306pt too wide) in paragraph at lines 2--4
 \T1/aer/m/n/9 tested our eval-u-ated weeks af-ter Yosemite was re-leased, many
  []
 
-<./figures/recallat8.png, id=18, 676.02562pt x 374.14781pt>
+<./figures/recallat8.png, id=16, 676.02562pt x 374.14781pt>
 File: ./figures/recallat8.png Graphic file (type png)
 
 <use ./figures/recallat8.png>
 Package pdftex.def Info: ./figures/recallat8.png used on input line 6.
 (pdftex.def)             Requested size: 231.84338pt x 128.31041pt.
-) [3 <./figures/recallat8.png>]
-(./sig-alternate.bbl) [4] (./sig-alternate.aux) ) 
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [3] (./sig-alternate.bbl
+Underfull \vbox (badness 2165) has occurred while \output is active []
+
+) [4 <./figures/recallat8.png>] (./sig-alternate.aux) ) 
 Here is how much of TeX's memory you used:
  2809 strings out of 493117
  35898 string characters out of 6135433
- 102229 words of memory out of 5000000
+ 103229 words of memory out of 5000000
  6191 multiletter control sequences out of 15000+600000
  51329 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,10n,28p,1242b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf
--dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
-/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmti9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw
-/helvetic/uhvb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvet
-ic/uhvr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on sig-alternate.pdf (4 pages, 386423 bytes).
+{/usr/local/texlive/2014
+/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/
+helvetic/uhvr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/u
+tmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+
+Output written on sig-alternate.pdf (4 pages, 387112 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
