@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  6 DEC 2014 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  6 DEC 2014 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -281,24 +281,24 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 42.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (1.52785pt too wide) in paragraph at lines 52--57
+Overfull \hbox (1.52785pt too wide) in paragraph at lines 52--58
 \T1/aer/m/n/9 for trend-ing top-ics. Our so-lu-tion con-sists of ex-tract-ing t
 weets
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--57
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
 
  []
 
 
-Overfull \hbox (4.04817pt too wide) in paragraph at lines 60--63
+Overfull \hbox (4.04817pt too wide) in paragraph at lines 61--64
 \T1/aer/m/n/9 hash-tags (e.g. #oitnb trans-lates to ''or-ange is the new black"
 ),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 
  []
 
@@ -311,30 +311,26 @@ File: ./figures/SystemArchitechture.jpg Graphic file (type jpg)
 
 <use ./figures/SystemArchitechture.jpg>
 Package pdftex.def Info: ./figures/SystemArchitechture.jpg used on input line 7
-0.
+1.
 (pdftex.def)             Requested size: 231.84338pt x 144.86446pt.
- (./query-generation.tex
+ (./query-generation.tex [2 <./figures/SystemArchitechture.jpg>]
 Overfull \hbox (2.13875pt too wide) in paragraph at lines 11--12
 []\T1/aer/m/n/9 {1st tri-gram}, if the fre-quency is above a cer-tain thresh-
  []
 
-) [2 <./figures/SystemArchitechture.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+)
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
 
  []
 
 
-LaTeX Warning: Citation `lexrank' on page \thepage  undefined on input line 88.
-
-
-
-Overfull \hbox (1.92235pt too wide) in paragraph at lines 88--90
+Overfull \hbox (1.92235pt too wide) in paragraph at lines 89--91
 \T1/aer/m/n/9 to the user, is doc-u-ment ex-trac-tion and sum-ma-riza-tion. Bot
 h
  []
 
 
-Overfull \hbox (2.36351pt too wide) in paragraph at lines 88--90
+Overfull \hbox (2.36351pt too wide) in paragraph at lines 89--91
 \T1/aer/m/n/9 demon-strated in LexRank's ini-tial eval-u-a-tion, or can-not ove
 r-
  []
@@ -344,7 +340,7 @@ Overfull \hbox (2.10306pt too wide) in paragraph at lines 2--4
 \T1/aer/m/n/9 tested our eval-u-ated weeks af-ter Yosemite was re-leased, many
  []
 
-<./figures/recallat8.png, id=19, 676.02562pt x 374.14781pt>
+<./figures/recallat8.png, id=18, 676.02562pt x 374.14781pt>
 File: ./figures/recallat8.png Graphic file (type png)
 
 <use ./figures/recallat8.png>
@@ -355,10 +351,10 @@ Package pdftex.def Info: ./figures/recallat8.png used on input line 6.
 
 ] (./sig-alternate.aux) ) 
 Here is how much of TeX's memory you used:
- 2808 strings out of 493117
- 35885 string characters out of 6135433
- 103223 words of memory out of 5000000
- 6190 multiletter control sequences out of 15000+600000
+ 2809 strings out of 493117
+ 35898 string characters out of 6135433
+ 102229 words of memory out of 5000000
+ 6191 multiletter control sequences out of 15000+600000
  51329 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,10n,28p,1242b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -373,7 +369,7 @@ pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></u
 sr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/
 2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on sig-alternate.pdf (4 pages, 381484 bytes).
+Output written on sig-alternate.pdf (4 pages, 385296 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
